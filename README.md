@@ -8,7 +8,7 @@
 
 * Data Preprocessing: Clean images, resize, and augment data to ensure consistency in the dataset.
 * Segmentation: Using techniques like threshold-based image segmentation, clustering (e.g., K-means), or Convolutional Neural Networks (CNN) to segment the vehicles.
-* Deep Learning Models: Employ architectures like Fully Convolutional Networks (FCN), U-Net, or Mask R-CNN to perform accurate segmentation and isolate vehicles from the background.In this project i use Unet model for segement.
+* Deep Learning Models: Employ architectures like Fully Convolutional Networks (FCN), U-Net, or Mask R-CNN to perform accurate segmentation and isolate vehicles from the background.In this project i use ` Unet model `for segement.
 ### 4.Applications:
 
 * Intelligent Traffic Monitoring: Helps in tracking vehicle density and managing traffic congestion.
